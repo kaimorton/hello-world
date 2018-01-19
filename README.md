@@ -1,5 +1,4 @@
 # hello-world
-Storage Repository
 
 Hi! My name is Kai Morton!
 
